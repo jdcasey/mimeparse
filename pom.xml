@@ -16,8 +16,8 @@
   </description>
   
   <scm>
-    <connection>http://github.com/jdcasey/mimeparse.git</connection>
-    <developerConnection>git@github.com:jdcasey/mimeparse.git</developerConnection>
+    <connection>scm:git:http://github.com/jdcasey/mimeparse.git</connection>
+    <developerConnection>scm:git:git@github.com:jdcasey/mimeparse.git</developerConnection>
     <url>http://github.com/jdcasey/mimeparse</url>
   </scm>
   
